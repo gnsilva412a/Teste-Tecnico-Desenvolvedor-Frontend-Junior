@@ -1,13 +1,12 @@
 # Teste para candidatos à vaga de desenvolvedor Front-end
 
 >
-> Esse teste é público. Todos que os interessados que fizerem pull request receberão um feedback da equipe.
 
 ## Instruções:
 1. Faça um fork deste repositório;
 2. Implemente o HTML/CSS da tela com base no layout disponível;
-3. Preocupe-se em desenvolver o css utilizando mobile first e responsividade;
-4. Para a interação do formulário utilize preferencialmente reactjs e/ou jQuery;
+3. Preocupe-se em desenvolver o css utilizando responsividade e mobile first;
+4. Para a interação do formulário utilize preferencialmente ReactJs e/ou jQuery;
 5. Após terminar seu teste submeta um pull request e aguarde seu feedback.
 
 * **Importante:** Os formulário não devem fazer requisições para nenhuma url.
@@ -15,7 +14,7 @@
 ### Você pode:
 
 * Utilizar qualquer linguagem de preprocessador css ou css puro;
-* Utilizar bibliotecas css como compass, animatecss ou outras;
+* Utilizar biblioteca css Bootstrap, podendendo aplicar efeitos com o compass, animatecss ou outras;
 
 ### Esperamos que você:
 
@@ -45,7 +44,7 @@
 
 ## Material:
 
-* Todos os layouts necessários estão disponíveis no [figma, Teste front-end](https://www.figma.com/file/XsliFyNGX5ihN6Rb2yBLRe/TESTE-FRONTEND?node-id=1%3A2&t=9CbZhBBp3M6C3U7u-1)
+* Todos os layouts necessários estão disponíveis no [FIGMA, TESTE FRONTEND](https://www.figma.com/file/XsliFyNGX5ihN6Rb2yBLRe/TESTE-FRONTEND?node-id=1%3A2&t=9CbZhBBp3M6C3U7u-1)
 
 
 ## Submissão
